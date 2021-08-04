@@ -1,5 +1,4 @@
 ## Hi there 👋
----
 ### Hello, I'm Kyungjun Kim! 
 ---
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lksa4e.oopy.io/)](https://lksa4e.oopy.io/)
