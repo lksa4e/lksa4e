@@ -15,7 +15,8 @@ Looking forward to your contact!<br><br>
       <img align="center" src = "https://github-readme-stats.vercel.app/api?username=lksa4e&show_icons=true">
   </td>
   <td>
-    [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lksa4e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <a href = "https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lksa4e&layout=compact">
   </td>
   </table>
 <!--
