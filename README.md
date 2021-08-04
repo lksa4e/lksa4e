@@ -9,7 +9,7 @@ I'm interested in *Web*, *cloud*, *techs*<br><br>
 Looking forward to your contact!<br><br>
 
 ### github stat
-![lksa4e's Github stats](https://github-readme-stats.vercel.app/api?username=lksa4e&show_icons=true)
+![lksa4e's Github stats](https://github-readme-stats.vercel.app/api?username=lksa4e&show_icons=true){: height="400"}
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lksa4e&layout=compact)
 <!--
 **lksa4e/lksa4e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
