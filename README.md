@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+### Hello, I'm Kyungjun Kim!
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lksa4e.oopy.io/)](https://lksa4e.oopy.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KJ77/)](https://www.linkedin.com/in/KJ77/)		
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lksa4e@gmail.com)](mailto:lksa4e@gmail.com)
+
+I am dreaming of a new experience as a developer.
+I'm interested in Web, cloud, techs.
+Looking forward to your contact!
 
 <!--
 **lksa4e/lksa4e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
