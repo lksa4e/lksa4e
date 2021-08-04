@@ -8,6 +8,8 @@ I am dreaming of a new experience as a *developer*<br><br>
 I'm interested in *Web*, *cloud*, *techs*<br><br>
 Looking forward to your contact!<br><br>
 
+[![lksa4e's github stats](https://github-readme-stats.vercel.app/api?username=lksa4e)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lksa4e)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lksa4e/lksa4e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
