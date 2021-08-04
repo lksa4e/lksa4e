@@ -1,6 +1,5 @@
 ## Hi there 👋
 ### Hello, I'm Kyungjun Kim! 
-=======
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lksa4e.oopy.io/)](https://lksa4e.oopy.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KJ77/)](https://www.linkedin.com/in/KJ77/)		
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lksa4e@gmail.com)](mailto:lksa4e@gmail.com)
@@ -10,7 +9,6 @@ I'm interested in `Web`, `cloud`, `techs`<br><br>
 Looking forward to your contact!<br><br>
 
 ### github stat 
-=======
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=lksa4e&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
