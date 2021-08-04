@@ -4,8 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KJ77/)](https://www.linkedin.com/in/KJ77/)		
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lksa4e@gmail.com)](mailto:lksa4e@gmail.com)
 
-I am dreaming of a new experience as a developer.<br>
-I'm interested in Web, cloud, techs.<br>
+I am dreaming of a new experience as a *developer*<br>
+I'm interested in *Web*, *cloud*, *techs*<br>
 Looking forward to your contact!<br>
 
 <!--
