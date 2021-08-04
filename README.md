@@ -10,8 +10,13 @@ Looking forward to your contact!<br><br>
 
 ### github stat
 <table>
+  <td>
 [![lksa4e's github stats](https://github-readme-stats.vercel.app/api?username=lksa4e&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lksa4e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </td>
+  <td>
+    [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lksa4e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </td>
+  </table>
 <!--
 **lksa4e/lksa4e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
